@@ -20,7 +20,7 @@ def bloodinfo(name,hospital,bloodgrp,status):
             print("Status : Blood requested")
 # main program
 print("welcome to blood bank")
-os.chdir("C:\\Users\\91787\\OneDrive\\Desktop\\my programs\\python")
+os.chdir("D:\\")
 data=open("BloodData.txt",'a+')
 name=[]
 hospital=[]
